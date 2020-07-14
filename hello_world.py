@@ -1,3 +1,5 @@
+Creating a new branch is quick & simple.
+
 print("Hello Git world!")
 print("Hello everyone.")
 print("Hello nothing.")
