@@ -1,5 +1,7 @@
 master test
 
+dev2 test
+
 Creating a new branch is quick & simple.
 
 print("Creating a new branch is quick AND simple.")
